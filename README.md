@@ -6,7 +6,7 @@ I get shocked everytime i realize that coding is literally a creation power on y
 
 My main programming languages are HTML, CSS, JavaScript, Java and Lua. I love designing UI/UX aswell!
 
-I'm currently at HighSchool, looking forward into a Computer Science University
+I'm currently at HighSchool, looking forward into a Computer Science Degree
 
 ### FunFacts:
 
