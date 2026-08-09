@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Mozi](https://github.com/MoziDuarte), a Fullstack Developer based in Brazil
+I'm [Mozi]([https://github.com/MoziDuarte](https://moziduarte.github.io/MoziAboutMe/)), a Fullstack Developer based in Brazil
 
 I get shocked everytime i realize that coding is literally a creation power on your own hands capable of building anything
 
