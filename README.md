@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>I'm [Mozi](https://moziduarte.github.io/MoziAboutMe/), a Fullstack Developer based in Brazil<br><br>I get shocked everytime i realize that coding is literally a creation power on your own hands capable of building anything<br><br>My main programming languages are HTML, CSS, JavaScript, Java and Lua. I love designing UI/UX aswell!<br><br>I'm currently at HighSchool, looking forward into a Computer Science Degree<br><br>### FunFacts:<br><br>- I Have 2 lovely dogs<br>- I love hamburgers but absolutely DESPISE pizza<br>- Marvel Nerd (spidey da goat fr)<br>- Hobbies: gaming, soccer, coding
+## Hi there 👋<br><br>I'm [Mozi](https://moziduarte.github.io/MoziAboutMe/), a Fullstack Developer based in Brazil<br><br>I get shocked everytime i realize that coding is literally a creation power on your own hands capable of building anything<br><br>My main programming languages are HTML, CSS, JavaScript, Java and Lua. I love designing UI/UX aswell!<br><br>I'm currently at HighSchool, looking forward into a Computer Science Degree<br><br> ### FunFacts:<br><br>- I Have 2 lovely dogs<br>- I love hamburgers but absolutely DESPISE pizza<br>- Marvel Nerd (spidey da goat fr)<br>- Hobbies: gaming, soccer, coding
 
 
 ## 🌐 Socials:
